@@ -1,0 +1,21 @@
+body {
+    
+    
+    background-repeat: no-repeat;
+    color: #0e0d0d;
+    transition: background-image 0.3s, color 0.3s;
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Sofia">
+      
+}
+
+.content {
+    padding: 20px;
+}
+
+
+.dark-mode {
+    background-image: url('/fundo2.png'); }
+
+.light-mode {
+    background-image: url('/fundo1.jpg');} 
